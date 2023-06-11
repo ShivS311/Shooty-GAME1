@@ -1,0 +1,11 @@
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\bin\Debug\Shooty Game.exe.config
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\bin\Debug\Shooty Game.exe
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\bin\Debug\Shooty Game.pdb
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty Game.csproj.AssemblyReference.cache
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty_Game.Form1.resources
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty_Game.Properties.Resources.resources
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty Game.csproj.GenerateResource.cache
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty Game.csproj.CoreCompileInputs.cache
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty Game.exe
+C:\Users\dipal\source\repos\Shooty Game\Shooty Game\obj\Debug\Shooty Game.pdb
